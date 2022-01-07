@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkChallenge", "FrameworkChallenge\FrameworkChallenge.csproj", "{6684A2AB-3DA2-4EAA-9B5F-7C1A1E3D6BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkChallenge.Domain", "FrameworkChallenge.Domain\FrameworkChallenge.Domain.csproj", "{77F7221C-576B-47A8-BA2E-66483E43EDBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6684A2AB-3DA2-4EAA-9B5F-7C1A1E3D6BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6684A2AB-3DA2-4EAA-9B5F-7C1A1E3D6BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6684A2AB-3DA2-4EAA-9B5F-7C1A1E3D6BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6684A2AB-3DA2-4EAA-9B5F-7C1A1E3D6BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F7221C-576B-47A8-BA2E-66483E43EDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F7221C-576B-47A8-BA2E-66483E43EDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F7221C-576B-47A8-BA2E-66483E43EDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F7221C-576B-47A8-BA2E-66483E43EDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDC35995-F89A-4D76-B9BA-3500B5A123A9}
+	EndGlobalSection
+EndGlobal
